@@ -1,2 +1,2 @@
-# danzo
-creer une fonction...
+# info
+programme python rassemblant plusieurs fonctions

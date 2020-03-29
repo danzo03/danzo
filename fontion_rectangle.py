@@ -1,4 +1,5 @@
 def rectangle(largeur,longueur):
+    #fonction qui retourne l'aire d'un rectangle
     a=largeur*longueur
     return a
 
