@@ -6,9 +6,11 @@ def rectangle(largeur,longueur):
 
 
 def affiche_rect(n):
+    #fonction qui affiche un triangle rectangle  de longueur n
     for i in range(1,n+1):
         print("*"*i)
 
-affiche_rect(5)
-res=rectangle(2,4)
-print(res)
+if __name__ == '__main__':
+    affiche_rect(5) #appel de la fonction 
+    res=rectangle(2,4)
+    print(res)
